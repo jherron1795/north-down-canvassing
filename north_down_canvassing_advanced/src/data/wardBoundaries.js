@@ -1,0 +1,1 @@
+export const wardBoundaries=[{id:'bangor_central',name:'Bangor Central',color:'#1f77b4',polygon:[[54.6615,-5.6740],[54.6630,-5.6660],[54.6570,-5.6610],[54.6535,-5.6675],[54.6560,-5.6750]]}];

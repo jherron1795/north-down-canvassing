@@ -1,0 +1,1 @@
+export function generateRoute(homes){return homes.sort((a,b)=>a.lat-b.lat).map(h=>[h.lat,h.lon]);}

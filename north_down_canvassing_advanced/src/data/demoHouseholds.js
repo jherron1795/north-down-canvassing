@@ -1,0 +1,1 @@
+export const demoHouseholds=[{id:1,address:'12 Abbey Gardens',lat:54.6612,lon:-5.6683,residents:['Sarah'],canvassed:false}];
